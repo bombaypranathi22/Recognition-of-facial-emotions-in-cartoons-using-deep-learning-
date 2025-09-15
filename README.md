@@ -1,14 +1,14 @@
 # Recognition-of-facial-emotions-in-cartoons-using-deep-learning-
 
-Developed a secure and scalable Blood & Organ Donation Management System using MySQL, NoSQL, and ETL workflows. The system manages 1,000+ donor, patient, and hospital records, improving allocation efficiency, reducing manual work, and enabling faster, data-driven decisions.
+ Designed and trained a hybrid CNN-RNN deep learning model to detect and classify emotions in cartoon characters. Leveraged 20,000+ video frames with preprocessing and augmentation techniques to build a robust model for real-time facial emotion recognition.
 ⚙️ Methods
-Database Design: Built relational schemas in MySQL and integrated NoSQL pipelines for flexibility
-ETL Workflows: Automated preprocessing and record updates across hospitals, blood banks, and transplant centers
-SQL Queries: Implemented joins, nested queries, and aggregates for efficient donor–recipient matching
-Visualization: Python-based bar, pie, and histogram plots for donation trends
+Model Development: Combined Convolutional Neural Networks (CNN) for spatial features and Recurrent Neural Networks (RNN) for temporal dependencies
+Data Preprocessing: Extracted frames with OpenCV, applied augmentation to improve generalization
+Training & Optimization: Hyperparameter tuning to boost accuracy
+Application: Proposed a real-time feedback loop for engagement tracking
 📈 Results
-Improved blood & organ allocation efficiency by 40%
-Reduced manual record-keeping effort by 40%
-Enabled faster donor–recipient matching and hospital-level reporting
+Improved classification accuracy by 18% after hyperparameter tuning
+Enhanced generalization across unseen test sets with data augmentation
+Demonstrated applications of AI in animation and emotion recognition
 🛠️ Skills & Tools
-MySQL · NoSQL · SQL Queries · Python · Pandas · ETL · Tableau · Power BI
+Python · TensorFlow · Keras · OpenCV · CNN · RNN · Deep Learning
